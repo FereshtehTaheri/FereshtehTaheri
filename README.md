@@ -52,4 +52,4 @@ QGIS · Python · Machine Learning · SHAP · Group-based Cross-Validation
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/fereshteh-taheri-urban) · ORCID
+[LinkedIn](https://www.linkedin.com/in/fereshteh-taheri-urban) · [ORCID](https://orcid.org/0009-0001-1528-5710)
